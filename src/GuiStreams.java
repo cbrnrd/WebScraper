@@ -1,5 +1,11 @@
 package crawlbabyGUI;
 
+/*
+  This is a lightweight swing framework made by an old camp councelor of mine, Andrew. 
+  I did not make this work, but I use it to display the information
+*/
+
+
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Dimension;
